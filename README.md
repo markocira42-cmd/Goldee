@@ -1,2 +1,2 @@
 # Goldee
-Static 3 page site with dummy text. HTML &amp; CSS only.
+Responsive static 3 page mock-up site with dummy text. HTML &amp; CSS only. For practice purposes.
